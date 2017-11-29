@@ -1,0 +1,32 @@
+\\vmware-host\Shared Folders\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\vmware-host\Shared Folders\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\vmware-host\Shared Folders\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\vmware-host\Shared Folders\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\DeserializationTest.dll
+\\vmware-host\Shared Folders\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\DeserializationTest.pdb
+\\vmware-host\Shared Folders\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\Deserialization.exe
+\\vmware-host\Shared Folders\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+\\vmware-host\Shared Folders\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+\\vmware-host\Shared Folders\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\Deserialization.pdb
+\\vmware-host\Shared Folders\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\Deserialization.exe.config
+\\vmware-host\Shared Folders\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+\\vmware-host\Shared Folders\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+\\vmware-host\Shared Folders\Documents\Projects\Deserialization\DeserializationTest\obj\Debug\DeserializationTest.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Projects\Deserialization\DeserializationTest\obj\Debug\DeserializationTest.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\Projects\Deserialization\DeserializationTest\obj\Debug\DeserializationTest.dll
+\\vmware-host\Shared Folders\Documents\Projects\Deserialization\DeserializationTest\obj\Debug\DeserializationTest.pdb
+Z:\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+Z:\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+Z:\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+Z:\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\DeserializationTest.dll
+Z:\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\DeserializationTest.pdb
+Z:\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\Deserialization.exe
+Z:\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+Z:\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+Z:\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\Deserialization.pdb
+Z:\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\Deserialization.exe.config
+Z:\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Z:\Documents\Projects\Deserialization\DeserializationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Z:\Documents\Projects\Deserialization\DeserializationTest\obj\Debug\DeserializationTest.csprojResolveAssemblyReference.cache
+Z:\Documents\Projects\Deserialization\DeserializationTest\obj\Debug\DeserializationTest.csproj.CoreCompileInputs.cache
+Z:\Documents\Projects\Deserialization\DeserializationTest\obj\Debug\DeserializationTest.dll
+Z:\Documents\Projects\Deserialization\DeserializationTest\obj\Debug\DeserializationTest.pdb

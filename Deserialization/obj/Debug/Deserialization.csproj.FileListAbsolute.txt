@@ -1,0 +1,14 @@
+\\vmware-host\Shared Folders\Documents\Projects\Deserialization\Deserialization\bin\Debug\Deserialization.exe.config
+\\vmware-host\Shared Folders\Documents\Projects\Deserialization\Deserialization\bin\Debug\Deserialization.exe
+\\vmware-host\Shared Folders\Documents\Projects\Deserialization\Deserialization\bin\Debug\Deserialization.pdb
+\\vmware-host\Shared Folders\Documents\Projects\Deserialization\Deserialization\obj\Debug\Deserialization.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Projects\Deserialization\Deserialization\obj\Debug\Deserialization.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\Projects\Deserialization\Deserialization\obj\Debug\Deserialization.exe
+\\vmware-host\Shared Folders\Documents\Projects\Deserialization\Deserialization\obj\Debug\Deserialization.pdb
+Z:\Documents\Projects\Deserialization\Deserialization\bin\Debug\Deserialization.exe.config
+Z:\Documents\Projects\Deserialization\Deserialization\bin\Debug\Deserialization.exe
+Z:\Documents\Projects\Deserialization\Deserialization\bin\Debug\Deserialization.pdb
+Z:\Documents\Projects\Deserialization\Deserialization\obj\Debug\Deserialization.csprojResolveAssemblyReference.cache
+Z:\Documents\Projects\Deserialization\Deserialization\obj\Debug\Deserialization.csproj.CoreCompileInputs.cache
+Z:\Documents\Projects\Deserialization\Deserialization\obj\Debug\Deserialization.exe
+Z:\Documents\Projects\Deserialization\Deserialization\obj\Debug\Deserialization.pdb
